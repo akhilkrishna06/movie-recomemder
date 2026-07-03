@@ -1,3 +1,4 @@
+<img width="1812" height="360" alt="Screenshot 2026-07-03 122610" src="https://github.com/user-attachments/assets/f678efab-206b-4436-9425-62dfe91d9ff6" />
 # 🎬 CineMatch: Machine Learning Movie Recommender System
 
 A content-based movie recommendation system built using Python and Machine Learning. The application analyzes movie metadata (genres, keywords, cast, crew, and overview) to calculate textual similarity and recommend the top 5 closest movies to a user's selection. 
@@ -41,4 +42,6 @@ The project utilizes the **TMDB 5000 Movie Dataset** from Kaggle, which consists
 
 | Main Interface | Dynamic Recommendations with Posters |
 | :---: | :---: |
-| ![Dropdown Selection](YOUR_IMAGE_LINK_1) | ![Movie Poster Layout](YOUR_IMAGE_LINK_2) |
+| ![Dropdown Selection](YOUR_IMAG<img width="1788" height="648" alt="Screenshot 2026-07-03 122634" src="https://github.com/user-attachments/assets/dc46ab5d-7c04-4047-99e4-1d48436af544" />
+E_LINK_1) | ![Movie Poster Layout](YOUR_IMAGE<img width="1812" height="360" alt="Screenshot 2026-07-03 122610" src="https://github.com/user-attachments/assets/64a0e2d1-f3d0-4ac7-902c-84d976a30cdf" />
+) |
