@@ -42,6 +42,7 @@ The project utilizes the **TMDB 5000 Movie Dataset** from Kaggle, which consists
 
 | Main Interface | Dynamic Recommendations with Posters |
 | :---: | :---: |
-| ![Dropdown Selection](YOUR_IMAG<img width="1788" height="648" alt="Screenshot 2026-07-03 122634" src="https://github.com/user-attachments/assets/dc46ab5d-7c04-4047-99e4-1d48436af544" />
-E_LINK_1) | ![Movie Poster Layout](YOUR_IMAGE<img width="1812" height="360" alt="Screenshot 2026-07-03 122610" src="https://github.com/user-attachments/assets/64a0e2d1-f3d0-4ac7-902c-84d976a30cdf" />
+| ![Dropdown Selection](YOUR_IMAG<img width="1812" height="360" alt="Screenshot 2026-07-03 122610" src="https://github.com/user-attachments/assets/64a0e2d1-f3d0-4ac7-902c-84d976a30cdf"
+
+E_LINK_1) | ![Movie Poster Layout](YOUR_IMAG<img width="1788" height="648" alt="Screenshot 2026-07-03 122634" src="https://github.com/user-attachments/assets/dc46ab5d-7c04-4047-99e4-1d48436af544" />
 ) |
